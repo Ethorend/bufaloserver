@@ -1,0 +1,6 @@
+q:\ethorend\bufaloserver\bufaloserver\bin\Debug\bufaloserver.exe.config
+q:\ethorend\bufaloserver\bufaloserver\bin\Debug\bufaloserver.exe
+q:\ethorend\bufaloserver\bufaloserver\bin\Debug\bufaloserver.pdb
+q:\ethorend\bufaloserver\bufaloserver\obj\Debug\bufaloserver.csprojResolveAssemblyReference.cache
+q:\ethorend\bufaloserver\bufaloserver\obj\Debug\bufaloserver.exe
+q:\ethorend\bufaloserver\bufaloserver\obj\Debug\bufaloserver.pdb
